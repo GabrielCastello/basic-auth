@@ -1,6 +1,6 @@
 {
   "name": "@g4br13l/basic-auth",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Simple basic auth middleware to be used with Express.js",
   "main": "app.js",
   "scripts": {
