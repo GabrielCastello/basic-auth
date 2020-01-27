@@ -1,0 +1,10 @@
+language: node_js
+
+node_js:
+  - stable
+
+install:
+  - npm install --save-dev
+
+script:
+  - npm test
