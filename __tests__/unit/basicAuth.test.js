@@ -19,7 +19,7 @@ const newBasicAuth = new BasicAuth(
 );
 
 const app = express();
-app.get("/", newBasicAuth.protect, (req, res) => res.send("Hello World!"));
+app.get("/", newBasicAuth.protect, (req, res) => res.send(""));
 
 describe("BasicAuth unit tests", () => {
   it("should provide auth credentials and succefully returns 200", async () => {
