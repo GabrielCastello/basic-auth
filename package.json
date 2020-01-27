@@ -4,13 +4,14 @@
   "description": "Simple basic auth middleware to be used with Express.js",
   "main": "src/app.js",
   "scripts": {
-    "test": "NODE_ENV=test jest"
+    "test": "NODE_ENV=test --coverage --coverageReporters=text-lcov | coveralls"
   },
   "homepage": "https://github.com/GabrielCastello/basic-auth",
   "author": "Gabriel Castello",
   "license": "MIT-0",
   "devDependencies": {
     "@types/jest": "^24.9.1",
+    "coveralls": "^3.0.9",
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "jest": "^25.1.0",
