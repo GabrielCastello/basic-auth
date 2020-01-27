@@ -1,11 +1,19 @@
 {
   "name": "@g4br13l/basic-auth",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Simple basic auth middleware to be used with Express.js",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
+    "test": "NODE_ENV=test jest"
   },
   "homepage": "https://github.com/GabrielCastello/basic-auth",
   "author": "Gabriel Castello",
-  "license": "ISC"
+  "license": "MIT-0",
+  "devDependencies": {
+    "@types/jest": "^24.9.1",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
+  }
 }
