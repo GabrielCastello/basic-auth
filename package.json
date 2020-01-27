@@ -1,10 +1,11 @@
 {
   "name": "@g4br13l/basic-auth",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Simple basic auth middleware to be used with Express.js",
   "main": "app.js",
   "scripts": {
   },
+  "homepage": "https://github.com/GabrielCastello/basic-auth",
   "author": "Gabriel Castello",
   "license": "ISC"
 }
