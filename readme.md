@@ -1,6 +1,8 @@
 # Basic-Auth to be used with Express.js
 
-[![Build Status](https://travis-ci.org/GabrielCastello/basic-auth.svg?branch=master)](https://travis-ci.org/GabrielCastello/basic-auth) [![Coverage Status](https://coveralls.io/repos/github/GabrielCastello/basic-auth/badge.svg?branch=master)](https://coveralls.io/github/GabrielCastello/basic-auth?branch=master)
+[![Build Status](https://travis-ci.org/GabrielCastello/basic-auth.svg?branch=master)](https://travis-ci.org/GabrielCastello/basic-auth) [![Coverage Status](https://coveralls.io/repos/github/GabrielCastello/basic-auth/badge.svg?branch=master)](https://coveralls.io/github/GabrielCastello/basic-auth?branch=master) [![Dependencies](https://david-dm.org/g4br13l/basic-auth.svg)](https://david-dm.org/g4br13l/basic-auth.svg)
+
+[![https://nodei.co/npm/@g4br13l/basic-auth.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/@g4br13l/basic-auth.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/@g4br13l/basic-auth)
 
 ## How to install
 
