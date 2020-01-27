@@ -1,5 +1,7 @@
 # Basic-Auth to be used with Express.js
 
+[![Build Status](https://travis-ci.org/GabrielCastello/basic-auth.svg?branch=master)](https://travis-ci.org/GabrielCastello/basic-auth) [![Coverage Status](https://coveralls.io/repos/github/GabrielCastello/basic-auth/badge.svg?branch=master)](https://coveralls.io/github/GabrielCastello/basic-auth?branch=master)
+
 ## How to install
 
 ```sh
