@@ -1,6 +1,6 @@
 # Basic-Auth to be used with Express.js
 
-## Hot to install
+## How to install
 
 ```sh
   npm i @g4br13l/basic-auth
