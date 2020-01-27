@@ -4,7 +4,7 @@
   "description": "Simple basic auth middleware to be used with Express.js",
   "main": "src/app.js",
   "scripts": {
-    "test": "NODE_ENV=test --coverage --coverageReporters=text-lcov | coveralls"
+    "test": "NODE_ENV=test jest"
   },
   "homepage": "https://github.com/GabrielCastello/basic-auth",
   "author": "Gabriel Castello",
